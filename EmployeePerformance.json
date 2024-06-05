@@ -1,42 +1,44 @@
-{
-  "insert": {
-    "EmployeeID": 1,
-    "DepartmentID": 1,
-    "PerformanceScore" : 70
+[
+  {
+    "insert": {
+      "EmployeeID": 1,
+      "DepartmentID": 1,
+      "PerformanceScore" : 70
+    }
+  },
+  {
+    "insert": {
+      "EmployeeID": 2,
+      "DepartmentID": 2,
+      "PerformanceScore" : 80
+    }
+  },
+  {
+    "insert": {
+      "EmployeeID": 3,
+      "DepartmentID": 3,
+      "PerformanceScore" : 40
+    }
+  },
+  {
+    "insert": {
+      "EmployeeID": 4,
+      "DepartmentID": 2,
+      "PerformanceScore" : 90
+    }
+  },
+  {
+    "insert": {
+      "EmployeeID": 5,
+      "DepartmentID": 1,
+      "PerformanceScore" : 50
+    }
+  },
+  {
+    "insert": {
+      "EmployeeID": 6,
+      "DepartmentID": 4,
+      "PerformanceScore" : 20
+    }
   }
-}
-{
-  "insert": {
-    "EmployeeID": 2,
-    "DepartmentID": 2,
-    "PerformanceScore" : 80
-  }
-}
-{
-  "insert": {
-    "EmployeeID": 3,
-    "DepartmentID": 3,
-    "PerformanceScore" : 40
-  }
-}
-{
-  "insert": {
-    "EmployeeID": 4,
-    "DepartmentID": 2,
-    "PerformanceScore" : 90
-  }
-}
-{
-  "insert": {
-    "EmployeeID": 5,
-    "DepartmentID": 1,
-    "PerformanceScore" : 50
-  }
-}
-{
-  "insert": {
-    "EmployeeID": 6,
-    "DepartmentID": 4,
-    "PerformanceScore" : 20
-  }
-}
+]
