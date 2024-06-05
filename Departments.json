@@ -16,3 +16,10 @@
     "DepartmentName": "Finance"
   }
 }
+
+{
+  "insert": {
+    "DepartmentID": 4,
+    "DepartmentName": "Research"
+  }
+}
