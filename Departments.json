@@ -1,24 +1,26 @@
-{
-  "insert": {
-    "DepartmentID": 1,
-    "DepartmentName": "HR"
+[
+  {
+    "insert": {
+      "DepartmentID": 1,
+      "DepartmentName": "HR"
+    }
+  },
+  {
+    "insert": {
+      "DepartmentID": 2,
+      "DepartmentName": "IT"
+    }
+  },
+  {
+    "insert": {
+      "DepartmentID": 3,
+      "DepartmentName": "Finance"
+    }
+  },
+  {
+    "insert": {
+      "DepartmentID": 4,
+      "DepartmentName": "Research"
+    }
   }
-}
-{
-  "insert": {
-    "DepartmentID": 2,
-    "DepartmentName": "IT"
-  }
-}
-{
-  "insert": {
-    "DepartmentID": 3,
-    "DepartmentName": "Finance"
-  }
-}
-{
-  "insert": {
-    "DepartmentID": 4,
-    "DepartmentName": "Research"
-  }
-}
+]
