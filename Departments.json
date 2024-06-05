@@ -16,7 +16,6 @@
     "DepartmentName": "Finance"
   }
 }
-
 {
   "insert": {
     "DepartmentID": 4,
