@@ -1,0 +1,18 @@
+{
+  "insert": {
+    "DepartmentID": 1,
+    "DepartmentName": "HR"
+  }
+}
+{
+  "insert": {
+    "DepartmentID": 2,
+    "DepartmentName": "IT"
+  }
+}
+{
+  "insert": {
+    "DepartmentID": 3,
+    "DepartmentName": "Finance"
+  }
+}

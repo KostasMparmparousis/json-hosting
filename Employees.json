@@ -1,0 +1,19 @@
+{
+  "insert": {"EmployeeID": 1, "FirstName": "John", "LastName" : "Doe", "DepartmentID" : 1, "JobTitle": "HR Manager", "Salary": 60000, "Status" : "Active"}
+}
+
+{
+  "insert": {"EmployeeID": 2, "FirstName": "Jane", "LastName" : "Smith", "DepartmentID" : 2, "JobTitle": "Software Developer", "Salary": 80000, "Status" : "Active"}
+}
+
+{
+  "insert": {"EmployeeID": 3, "FirstName": "Bob", "LastName" : "Johnson", "DepartmentID" : 3, "JobTitle": "Accountant", "Salary": 55000, "Status" : "Inactive"}
+}
+
+{
+  "insert": {"EmployeeID": 4, "FirstName": "Alice", "LastName" : "Williams", "DepartmentID" : 2, "JobTitle": "System Analyst", "Salary": 85000, "Status" : "Active"}
+}
+
+{
+  "insert": {"EmployeeID": 5, "FirstName": "Tom", "LastName" : "Brown", "DepartmentID" : 1, "JobTitle": "Recruiter", "Salary": 50000, "Status" : "Active"}
+}
