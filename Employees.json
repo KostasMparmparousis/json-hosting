@@ -17,3 +17,7 @@
 {
   "insert": {"EmployeeID": 5, "FirstName": "Tom", "LastName" : "Brown", "DepartmentID" : 1, "JobTitle": "Recruiter", "Salary": 50000, "Status" : "Active"}
 }
+
+{
+  "insert": {"EmployeeID": 6, "FirstName": "George", "LastName" : "Lucas", "DepartmentID" : 4, "JobTitle": "Researcher", "Salary": 100000, "Status" : "Inactive"}
+}
