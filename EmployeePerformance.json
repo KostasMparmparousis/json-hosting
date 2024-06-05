@@ -33,3 +33,10 @@
     "PerformanceScore" : 50
   }
 }
+{
+  "insert": {
+    "EmployeeID": 6,
+    "DepartmentID": 4,
+    "PerformanceScore" : 20
+  }
+}
