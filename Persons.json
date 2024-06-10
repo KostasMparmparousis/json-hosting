@@ -1,0 +1,37 @@
+[
+  {
+    "insert": {
+      "name": Kostas,
+      "age": 24,
+      "present": true
+    }
+  },
+  {
+    "insert": {
+      "name": Dimitris,
+      "age": 25,
+      "present": true
+    }
+  },
+  {
+    "insert": {
+      "name": Antonis,
+      "age": 24,
+      "present": true
+    }
+  },
+  {
+    "insert": {
+      "name": Spiros,
+      "age": 24,
+      "present": true
+    }
+  },
+  {
+    "insert": {
+      "name": Nikos,
+      "age": 25,
+      "present": true
+    }
+  }
+]
